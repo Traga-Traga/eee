@@ -1,5 +1,5 @@
 // Edit By Meux VR
-var _title = '<title>💕کτγℓع❥ー�</title>';
+var _title = '<title>.💕کτγℓع❥ー�</title>';
 $('title').replaceWith(_title);
 //$('body').append('<div id="minimapContener"><canvas id="minimap" width="200" height="200" style="pointer-events:none;background:rgba(59, 59, 84, 0.22);position:absolute;bottom:10px;right:10px;border:rgba(59, 59, 84, 0.50) 2px solid; z-index:2"></canvas></div>');
 
